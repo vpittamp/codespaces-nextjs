@@ -9,13 +9,6 @@
   "postAttachCommand": {
     "server": "npm run dev"
   },
-  "customizations": {
-    "codespaces": {
-      "openFiles": [
-        "pages/index.js"
-      ]
-    }
-  },
   "portsAttributes": {
     "3000": {
       "label": "Application",
